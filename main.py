@@ -1,0 +1,5 @@
+"def main():" 
+"    print('AI Base Project - Ready for collaboration!')" 
+"" 
+"if __name__ == '__main__':" 
+"    main()" 
