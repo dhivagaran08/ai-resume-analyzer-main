@@ -3,3 +3,4 @@
 "" 
 "if __name__ == '__main__':" 
 "    main()" 
+"# This ensures the function runs only when script is executed directly" 
